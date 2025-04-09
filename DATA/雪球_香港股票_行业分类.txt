@@ -1,0 +1,223 @@
+{
+    "data": {
+        "industries": [
+            {
+                "encode": "0010",
+                "name": "石油及天然气",
+                "pinyin": "syjtrq"
+            },
+            {
+                "encode": "0020",
+                "name": "煤炭",
+                "pinyin": "mt"
+            },
+            {
+                "encode": "0510",
+                "name": "黄金及贵金属",
+                "pinyin": "hjjgjs"
+            },
+            {
+                "encode": "0520",
+                "name": "一般金属及矿石",
+                "pinyin": "ybjsjks"
+            },
+            {
+                "encode": "0530",
+                "name": "原材料",
+                "pinyin": "ycl"
+            },
+            {
+                "encode": "100",
+                "name": "工业制品",
+                "pinyin": "gyzp"
+            },
+            {
+                "encode": "1010",
+                "name": "工业工程",
+                "pinyin": "gygc"
+            },
+            {
+                "encode": "1020",
+                "name": "工用运输",
+                "pinyin": "gyys"
+            },
+            {
+                "encode": "1030",
+                "name": "工用支援",
+                "pinyin": "gyzy"
+            },
+            {
+                "encode": "2020",
+                "name": "家庭电器及用品",
+                "pinyin": "jtdqjyp"
+            },
+            {
+                "encode": "2030",
+                "name": "纺织、服饰及个人护理",
+                "pinyin": "fzfsjgrhl"
+            },
+            {
+                "encode": "2040",
+                "name": "食物饮品",
+                "pinyin": "swyp"
+            },
+            {
+                "encode": "2050",
+                "name": "医疗保健",
+                "pinyin": "ylbj"
+            },
+            {
+                "encode": "2060",
+                "name": "农业产品",
+                "pinyin": "nycp"
+            },
+            {
+                "encode": "2310",
+                "name": "汽车",
+                "pinyin": "qc"
+            },
+            {
+                "encode": "2320",
+                "name": "家庭电器及用品",
+                "pinyin": "jtdqjyp"
+            },
+            {
+                "encode": "2330",
+                "name": "纺织及服饰",
+                "pinyin": "fzjfs"
+            },
+            {
+                "encode": "2340",
+                "name": "旅游及消闲设施",
+                "pinyin": "lyjxxss"
+            },
+            {
+                "encode": "2350",
+                "name": "媒体及娱乐",
+                "pinyin": "mtjyl"
+            },
+            {
+                "encode": "2360",
+                "name": "支援服务",
+                "pinyin": "zyfw"
+            },
+            {
+                "encode": "2370",
+                "name": "专业零售",
+                "pinyin": "zyls"
+            },
+            {
+                "encode": "2510",
+                "name": "食物饮品",
+                "pinyin": "swyp"
+            },
+            {
+                "encode": "2520",
+                "name": "农业产品",
+                "pinyin": "nycp"
+            },
+            {
+                "encode": "2530",
+                "name": "消费者主要零售商",
+                "pinyin": "xfzzylss"
+            },
+            {
+                "encode": "2810",
+                "name": "药品及生物科技",
+                "pinyin": "ypjswkj"
+            },
+            {
+                "encode": "2820",
+                "name": "医疗保健设备和服务",
+                "pinyin": "ylbjsbhfw"
+            },
+            {
+                "encode": "3010",
+                "name": "零售",
+                "pinyin": "ls"
+            },
+            {
+                "encode": "3020",
+                "name": "酒店、赌场及消闲设施",
+                "pinyin": "jddcjxxss"
+            },
+            {
+                "encode": "3030",
+                "name": "媒体及娱乐",
+                "pinyin": "mtjyl"
+            },
+            {
+                "encode": "3040",
+                "name": "运输",
+                "pinyin": "ys"
+            },
+            {
+                "encode": "3045",
+                "name": "医疗保健服务",
+                "pinyin": "ylbjfw"
+            },
+            {
+                "encode": "3050",
+                "name": "支援服务",
+                "pinyin": "zyfw"
+            },
+            {
+                "encode": "3500",
+                "name": "电讯",
+                "pinyin": "dx"
+            },
+            {
+                "encode": "4000",
+                "name": "公用事业",
+                "pinyin": "gysy"
+            },
+            {
+                "encode": "5010",
+                "name": "银行",
+                "pinyin": "yx"
+            },
+            {
+                "encode": "5020",
+                "name": "保险",
+                "pinyin": "bx"
+            },
+            {
+                "encode": "5030",
+                "name": "其他金融",
+                "pinyin": "qtjr"
+            },
+            {
+                "encode": "6010",
+                "name": "地产",
+                "pinyin": "dc"
+            },
+            {
+                "encode": "6020",
+                "name": "建筑",
+                "pinyin": "jz"
+            },
+            {
+                "encode": "7010",
+                "name": "资讯科技器材",
+                "pinyin": "zxkjqc"
+            },
+            {
+                "encode": "7020",
+                "name": "软件服务",
+                "pinyin": "rjfw"
+            },
+            {
+                "encode": "7030",
+                "name": "半导体",
+                "pinyin": "bdt"
+            },
+            {
+                "encode": "8000",
+                "name": "综合企业",
+                "pinyin": "zhqy"
+            }
+        ]
+    },
+    "error_code": 0,
+    "error_description": ""
+}

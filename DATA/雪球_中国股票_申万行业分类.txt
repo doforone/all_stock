@@ -1,0 +1,678 @@
+{
+    "data": {
+        "industries": [
+            {
+                "encode": "S1101",
+                "name": "种植业",
+                "pinyin": "zzy"
+            },
+            {
+                "encode": "S1102",
+                "name": "渔业",
+                "pinyin": "yy"
+            },
+            {
+                "encode": "S1103",
+                "name": "林业",
+                "pinyin": "ly"
+            },
+            {
+                "encode": "S1104",
+                "name": "饲料",
+                "pinyin": "sl"
+            },
+            {
+                "encode": "S1105",
+                "name": "农产品加工",
+                "pinyin": "ncpjg"
+            },
+            {
+                "encode": "S1107",
+                "name": "养殖业",
+                "pinyin": "yzy"
+            },
+            {
+                "encode": "S1108",
+                "name": "动物保健",
+                "pinyin": "dwbj"
+            },
+            {
+                "encode": "S1109",
+                "name": "农业综合",
+                "pinyin": "nyzh"
+            },
+            {
+                "encode": "S2202",
+                "name": "化学原料",
+                "pinyin": "hxyl"
+            },
+            {
+                "encode": "S2203",
+                "name": "化学制品",
+                "pinyin": "hxzp"
+            },
+            {
+                "encode": "S2204",
+                "name": "化学纤维",
+                "pinyin": "hxxw"
+            },
+            {
+                "encode": "S2205",
+                "name": "塑料",
+                "pinyin": "sl"
+            },
+            {
+                "encode": "S2206",
+                "name": "橡胶",
+                "pinyin": "xj"
+            },
+            {
+                "encode": "S2208",
+                "name": "农化制品",
+                "pinyin": "nhzp"
+            },
+            {
+                "encode": "S2209",
+                "name": "非金属材料",
+                "pinyin": "fjscl"
+            },
+            {
+                "encode": "S2303",
+                "name": "冶钢原料",
+                "pinyin": "ygyl"
+            },
+            {
+                "encode": "S2304",
+                "name": "普钢",
+                "pinyin": "pg"
+            },
+            {
+                "encode": "S2305",
+                "name": "特钢",
+                "pinyin": "tg"
+            },
+            {
+                "encode": "S2402",
+                "name": "金属新材料",
+                "pinyin": "jsxcl"
+            },
+            {
+                "encode": "S2403",
+                "name": "工业金属",
+                "pinyin": "gyjs"
+            },
+            {
+                "encode": "S2404",
+                "name": "贵金属",
+                "pinyin": "gjs"
+            },
+            {
+                "encode": "S2405",
+                "name": "小金属",
+                "pinyin": "xjs"
+            },
+            {
+                "encode": "S2406",
+                "name": "能源金属",
+                "pinyin": "nyjs"
+            },
+            {
+                "encode": "S2701",
+                "name": "半导体",
+                "pinyin": "bdt"
+            },
+            {
+                "encode": "S2702",
+                "name": "元件",
+                "pinyin": "yj"
+            },
+            {
+                "encode": "S2703",
+                "name": "光学光电子",
+                "pinyin": "gxgdz"
+            },
+            {
+                "encode": "S2704",
+                "name": "其他电子",
+                "pinyin": "qtdz"
+            },
+            {
+                "encode": "S2705",
+                "name": "消费电子",
+                "pinyin": "xfdz"
+            },
+            {
+                "encode": "S2706",
+                "name": "电子化学品",
+                "pinyin": "dzhxp"
+            },
+            {
+                "encode": "S2802",
+                "name": "汽车零部件",
+                "pinyin": "qclbj"
+            },
+            {
+                "encode": "S2803",
+                "name": "汽车服务",
+                "pinyin": "qcfw"
+            },
+            {
+                "encode": "S2804",
+                "name": "摩托车及其他",
+                "pinyin": "mtcjqt"
+            },
+            {
+                "encode": "S2805",
+                "name": "乘用车",
+                "pinyin": "cyc"
+            },
+            {
+                "encode": "S2806",
+                "name": "商用车",
+                "pinyin": "syc"
+            },
+            {
+                "encode": "S3301",
+                "name": "白色家电",
+                "pinyin": "bsjd"
+            },
+            {
+                "encode": "S3302",
+                "name": "黑色家电",
+                "pinyin": "hsjd"
+            },
+            {
+                "encode": "S3303",
+                "name": "小家电",
+                "pinyin": "xjd"
+            },
+            {
+                "encode": "S3304",
+                "name": "厨卫电器",
+                "pinyin": "cwdq"
+            },
+            {
+                "encode": "S3305",
+                "name": "照明设备",
+                "pinyin": "zmsb"
+            },
+            {
+                "encode": "S3306",
+                "name": "家电零部件",
+                "pinyin": "jdlbj"
+            },
+            {
+                "encode": "S3307",
+                "name": "其他家电",
+                "pinyin": "qtjd"
+            },
+            {
+                "encode": "S3404",
+                "name": "食品加工",
+                "pinyin": "spjg"
+            },
+            {
+                "encode": "S3405",
+                "name": "白酒",
+                "pinyin": "bj"
+            },
+            {
+                "encode": "S3406",
+                "name": "非白酒",
+                "pinyin": "fbj"
+            },
+            {
+                "encode": "S3407",
+                "name": "饮料乳品",
+                "pinyin": "ylrp"
+            },
+            {
+                "encode": "S3408",
+                "name": "休闲食品",
+                "pinyin": "xxsp"
+            },
+            {
+                "encode": "S3409",
+                "name": "调味发酵品",
+                "pinyin": "dwfjp"
+            },
+            {
+                "encode": "S3501",
+                "name": "纺织制造",
+                "pinyin": "fzzz"
+            },
+            {
+                "encode": "S3502",
+                "name": "服装家纺",
+                "pinyin": "fzjf"
+            },
+            {
+                "encode": "S3503",
+                "name": "饰品",
+                "pinyin": "sp"
+            },
+            {
+                "encode": "S3601",
+                "name": "造纸",
+                "pinyin": "zz"
+            },
+            {
+                "encode": "S3602",
+                "name": "包装印刷",
+                "pinyin": "bzys"
+            },
+            {
+                "encode": "S3603",
+                "name": "家居用品",
+                "pinyin": "jjyp"
+            },
+            {
+                "encode": "S3605",
+                "name": "文娱用品",
+                "pinyin": "wyyp"
+            },
+            {
+                "encode": "S3701",
+                "name": "化学制药",
+                "pinyin": "hxzy"
+            },
+            {
+                "encode": "S3702",
+                "name": "中药",
+                "pinyin": "zy"
+            },
+            {
+                "encode": "S3703",
+                "name": "生物制品",
+                "pinyin": "swzp"
+            },
+            {
+                "encode": "S3704",
+                "name": "医药商业",
+                "pinyin": "yysy"
+            },
+            {
+                "encode": "S3705",
+                "name": "医疗器械",
+                "pinyin": "ylqx"
+            },
+            {
+                "encode": "S3706",
+                "name": "医疗服务",
+                "pinyin": "ylfw"
+            },
+            {
+                "encode": "S4101",
+                "name": "电力",
+                "pinyin": "dl"
+            },
+            {
+                "encode": "S4103",
+                "name": "燃气",
+                "pinyin": "rq"
+            },
+            {
+                "encode": "S4208",
+                "name": "物流",
+                "pinyin": "wl"
+            },
+            {
+                "encode": "S4209",
+                "name": "铁路公路",
+                "pinyin": "tlgl"
+            },
+            {
+                "encode": "S4210",
+                "name": "航空机场",
+                "pinyin": "hkjc"
+            },
+            {
+                "encode": "S4211",
+                "name": "航运港口",
+                "pinyin": "hygk"
+            },
+            {
+                "encode": "S4301",
+                "name": "房地产开发",
+                "pinyin": "fdckf"
+            },
+            {
+                "encode": "S4303",
+                "name": "房地产服务",
+                "pinyin": "fdcfw"
+            },
+            {
+                "encode": "S4502",
+                "name": "贸易",
+                "pinyin": "my"
+            },
+            {
+                "encode": "S4503",
+                "name": "一般零售",
+                "pinyin": "ybls"
+            },
+            {
+                "encode": "S4504",
+                "name": "专业连锁",
+                "pinyin": "zyls"
+            },
+            {
+                "encode": "S4506",
+                "name": "互联网电商",
+                "pinyin": "hlwds"
+            },
+            {
+                "encode": "S4507",
+                "name": "旅游零售",
+                "pinyin": "lyls"
+            },
+            {
+                "encode": "S4606",
+                "name": "体育",
+                "pinyin": "ty"
+            },
+            {
+                "encode": "S4607",
+                "name": "本地生活服务",
+                "pinyin": "bdshfw"
+            },
+            {
+                "encode": "S4608",
+                "name": "专业服务",
+                "pinyin": "zyfw"
+            },
+            {
+                "encode": "S4609",
+                "name": "酒店餐饮",
+                "pinyin": "jdcy"
+            },
+            {
+                "encode": "S4610",
+                "name": "旅游及景区",
+                "pinyin": "lyjjq"
+            },
+            {
+                "encode": "S4611",
+                "name": "教育",
+                "pinyin": "jy"
+            },
+            {
+                "encode": "S4802",
+                "name": "国有大型银行",
+                "pinyin": "gydxyx"
+            },
+            {
+                "encode": "S4803",
+                "name": "股份制银行",
+                "pinyin": "gfzyx"
+            },
+            {
+                "encode": "S4804",
+                "name": "城商行",
+                "pinyin": "csx"
+            },
+            {
+                "encode": "S4805",
+                "name": "农商行",
+                "pinyin": "nsx"
+            },
+            {
+                "encode": "S4806",
+                "name": "其他银行",
+                "pinyin": "qtyx"
+            },
+            {
+                "encode": "S4901",
+                "name": "证券",
+                "pinyin": "zq"
+            },
+            {
+                "encode": "S4902",
+                "name": "保险",
+                "pinyin": "bx"
+            },
+            {
+                "encode": "S4903",
+                "name": "多元金融",
+                "pinyin": "dyjr"
+            },
+            {
+                "encode": "S5101",
+                "name": "综合",
+                "pinyin": "zh"
+            },
+            {
+                "encode": "S6101",
+                "name": "水泥",
+                "pinyin": "sn"
+            },
+            {
+                "encode": "S6102",
+                "name": "玻璃玻纤",
+                "pinyin": "blbx"
+            },
+            {
+                "encode": "S6103",
+                "name": "装修建材",
+                "pinyin": "zxjc"
+            },
+            {
+                "encode": "S6201",
+                "name": "房屋建设",
+                "pinyin": "fwjs"
+            },
+            {
+                "encode": "S6202",
+                "name": "装修装饰",
+                "pinyin": "zxzs"
+            },
+            {
+                "encode": "S6203",
+                "name": "基础建设",
+                "pinyin": "jcjs"
+            },
+            {
+                "encode": "S6204",
+                "name": "专业工程",
+                "pinyin": "zygc"
+            },
+            {
+                "encode": "S6206",
+                "name": "工程咨询服务",
+                "pinyin": "gczxfw"
+            },
+            {
+                "encode": "S6301",
+                "name": "电机",
+                "pinyin": "dj"
+            },
+            {
+                "encode": "S6303",
+                "name": "其他电源设备",
+                "pinyin": "qtdysb"
+            },
+            {
+                "encode": "S6305",
+                "name": "光伏设备",
+                "pinyin": "gfsb"
+            },
+            {
+                "encode": "S6306",
+                "name": "风电设备",
+                "pinyin": "fdsb"
+            },
+            {
+                "encode": "S6307",
+                "name": "电池",
+                "pinyin": "dc"
+            },
+            {
+                "encode": "S6308",
+                "name": "电网设备",
+                "pinyin": "dwsb"
+            },
+            {
+                "encode": "S6401",
+                "name": "通用设备",
+                "pinyin": "tysb"
+            },
+            {
+                "encode": "S6402",
+                "name": "专用设备",
+                "pinyin": "zysb"
+            },
+            {
+                "encode": "S6405",
+                "name": "轨交设备",
+                "pinyin": "gjsb"
+            },
+            {
+                "encode": "S6406",
+                "name": "工程机械",
+                "pinyin": "gcjx"
+            },
+            {
+                "encode": "S6407",
+                "name": "自动化设备",
+                "pinyin": "zdhsb"
+            },
+            {
+                "encode": "S6501",
+                "name": "航天装备",
+                "pinyin": "htzb"
+            },
+            {
+                "encode": "S6502",
+                "name": "航空装备",
+                "pinyin": "hkzb"
+            },
+            {
+                "encode": "S6503",
+                "name": "地面兵装",
+                "pinyin": "dmbz"
+            },
+            {
+                "encode": "S6504",
+                "name": "航海装备",
+                "pinyin": "hhzb"
+            },
+            {
+                "encode": "S6505",
+                "name": "军工电子",
+                "pinyin": "jgdz"
+            },
+            {
+                "encode": "S7101",
+                "name": "计算机设备",
+                "pinyin": "jsjsb"
+            },
+            {
+                "encode": "S7103",
+                "name": "IT服务",
+                "pinyin": "itfw"
+            },
+            {
+                "encode": "S7104",
+                "name": "软件开发",
+                "pinyin": "rjkf"
+            },
+            {
+                "encode": "S7204",
+                "name": "游戏",
+                "pinyin": "yx"
+            },
+            {
+                "encode": "S7205",
+                "name": "广告营销",
+                "pinyin": "ggyx"
+            },
+            {
+                "encode": "S7206",
+                "name": "影视院线",
+                "pinyin": "ysyx"
+            },
+            {
+                "encode": "S7207",
+                "name": "数字媒体",
+                "pinyin": "szmt"
+            },
+            {
+                "encode": "S7208",
+                "name": "社交",
+                "pinyin": "sj"
+            },
+            {
+                "encode": "S7209",
+                "name": "出版",
+                "pinyin": "cb"
+            },
+            {
+                "encode": "S7210",
+                "name": "电视广播",
+                "pinyin": "dsgb"
+            },
+            {
+                "encode": "S7301",
+                "name": "通信服务",
+                "pinyin": "txfw"
+            },
+            {
+                "encode": "S7302",
+                "name": "通信设备",
+                "pinyin": "txsb"
+            },
+            {
+                "encode": "S7401",
+                "name": "煤炭开采",
+                "pinyin": "mtkc"
+            },
+            {
+                "encode": "S7402",
+                "name": "焦炭",
+                "pinyin": "jt"
+            },
+            {
+                "encode": "S7501",
+                "name": "油气开采",
+                "pinyin": "yqkc"
+            },
+            {
+                "encode": "S7502",
+                "name": "油服工程",
+                "pinyin": "yfgc"
+            },
+            {
+                "encode": "S7503",
+                "name": "炼化及贸易",
+                "pinyin": "lhjmy"
+            },
+            {
+                "encode": "S7601",
+                "name": "环境治理",
+                "pinyin": "hjzl"
+            },
+            {
+                "encode": "S7602",
+                "name": "环保设备",
+                "pinyin": "hbsb"
+            },
+            {
+                "encode": "S7701",
+                "name": "个护用品",
+                "pinyin": "ghyp"
+            },
+            {
+                "encode": "S7702",
+                "name": "化妆品",
+                "pinyin": "hzp"
+            },
+            {
+                "encode": "S7703",
+                "name": "医疗美容",
+                "pinyin": "ylmr"
+            }
+        ]
+    },
+    "error_code": 0,
+    "error_description": ""
+}

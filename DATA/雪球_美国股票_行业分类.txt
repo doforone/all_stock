@@ -1,0 +1,393 @@
+{
+    "data": {
+        "industries": [
+            {
+                "encode": "101010",
+                "name": "能源设备与服务",
+                "pinyin": "nysbyfw"
+            },
+            {
+                "encode": "101020",
+                "name": "石油、天然气与消费用燃料",
+                "pinyin": "sytrqyxfyrl"
+            },
+            {
+                "encode": "151010",
+                "name": "化学制品",
+                "pinyin": "hxzp"
+            },
+            {
+                "encode": "151020",
+                "name": "建筑材料",
+                "pinyin": "jzcl"
+            },
+            {
+                "encode": "151030",
+                "name": "容器与包装",
+                "pinyin": "rqybz"
+            },
+            {
+                "encode": "151040",
+                "name": "金属与采矿",
+                "pinyin": "jsyck"
+            },
+            {
+                "encode": "151050",
+                "name": "纸类与林业产品",
+                "pinyin": "zlylycp"
+            },
+            {
+                "encode": "201010",
+                "name": "航空航天与国防",
+                "pinyin": "hkhtygf"
+            },
+            {
+                "encode": "201020",
+                "name": "建筑产品",
+                "pinyin": "jzcp"
+            },
+            {
+                "encode": "201030",
+                "name": "建筑与工程",
+                "pinyin": "jzygc"
+            },
+            {
+                "encode": "201040",
+                "name": "电气设备",
+                "pinyin": "dqsb"
+            },
+            {
+                "encode": "201050",
+                "name": "工业集团企业",
+                "pinyin": "gyjtqy"
+            },
+            {
+                "encode": "201060",
+                "name": "机械制造",
+                "pinyin": "jxzz"
+            },
+            {
+                "encode": "201070",
+                "name": "贸易公司与经销商",
+                "pinyin": "mygsyjxs"
+            },
+            {
+                "encode": "202010",
+                "name": "商业服务与商业用品",
+                "pinyin": "syfwysyyp"
+            },
+            {
+                "encode": "202020",
+                "name": "专业服务",
+                "pinyin": "zyfw"
+            },
+            {
+                "encode": "203010",
+                "name": "航空货运与物流",
+                "pinyin": "hkhyywl"
+            },
+            {
+                "encode": "203020",
+                "name": "航空公司",
+                "pinyin": "hkgs"
+            },
+            {
+                "encode": "203030",
+                "name": "海运",
+                "pinyin": "hy"
+            },
+            {
+                "encode": "203040",
+                "name": "公路与铁路",
+                "pinyin": "glytl"
+            },
+            {
+                "encode": "203050",
+                "name": "交通基本设施",
+                "pinyin": "jtjbss"
+            },
+            {
+                "encode": "251010",
+                "name": "汽车零配件",
+                "pinyin": "qclpj"
+            },
+            {
+                "encode": "251020",
+                "name": "汽车",
+                "pinyin": "qc"
+            },
+            {
+                "encode": "252010",
+                "name": "家庭耐用消费品",
+                "pinyin": "jtnyxfp"
+            },
+            {
+                "encode": "252020",
+                "name": "休闲设备与用品",
+                "pinyin": "xxsbyyp"
+            },
+            {
+                "encode": "252030",
+                "name": "纺织品、服装与奢侈品",
+                "pinyin": "fzpfzyscp"
+            },
+            {
+                "encode": "253010",
+                "name": "酒店、餐馆与休闲",
+                "pinyin": "jdcgyxx"
+            },
+            {
+                "encode": "253020",
+                "name": "综合消费者服务",
+                "pinyin": "zhxfzfw"
+            },
+            {
+                "encode": "255010",
+                "name": "经销商",
+                "pinyin": "jxs"
+            },
+            {
+                "encode": "255020",
+                "name": "互联网与直销零售",
+                "pinyin": "hlwyzxls"
+            },
+            {
+                "encode": "255030",
+                "name": "多元化零售",
+                "pinyin": "dyhls"
+            },
+            {
+                "encode": "255040",
+                "name": "专营零售",
+                "pinyin": "zyls"
+            },
+            {
+                "encode": "301010",
+                "name": "食品与主要用品零售",
+                "pinyin": "spyzyypls"
+            },
+            {
+                "encode": "302010",
+                "name": "饮料",
+                "pinyin": "yl"
+            },
+            {
+                "encode": "302020",
+                "name": "食品",
+                "pinyin": "sp"
+            },
+            {
+                "encode": "302030",
+                "name": "烟草",
+                "pinyin": "yc"
+            },
+            {
+                "encode": "303010",
+                "name": "居家用品",
+                "pinyin": "jjyp"
+            },
+            {
+                "encode": "303020",
+                "name": "个人用品",
+                "pinyin": "gryp"
+            },
+            {
+                "encode": "351010",
+                "name": "医疗保健设备与用品",
+                "pinyin": "ylbjsbyyp"
+            },
+            {
+                "encode": "351020",
+                "name": "医疗保健提供商与服务",
+                "pinyin": "ylbjtgsyfw"
+            },
+            {
+                "encode": "351030",
+                "name": "医疗保健技术",
+                "pinyin": "ylbjjs"
+            },
+            {
+                "encode": "352010",
+                "name": "生物科技",
+                "pinyin": "swkj"
+            },
+            {
+                "encode": "352020",
+                "name": "制药",
+                "pinyin": "zy"
+            },
+            {
+                "encode": "352030",
+                "name": "生命科学工具和服务",
+                "pinyin": "smkxgjhfw"
+            },
+            {
+                "encode": "401010",
+                "name": "商业银行",
+                "pinyin": "syyx"
+            },
+            {
+                "encode": "401020",
+                "name": "互助储蓄银行与抵押信贷",
+                "pinyin": "hzcxyxydyxd"
+            },
+            {
+                "encode": "402010",
+                "name": "综合金融服务",
+                "pinyin": "zhjrfw"
+            },
+            {
+                "encode": "402020",
+                "name": "消费信贷",
+                "pinyin": "xfxd"
+            },
+            {
+                "encode": "402030",
+                "name": "资本市场",
+                "pinyin": "zbsc"
+            },
+            {
+                "encode": "402040",
+                "name": "抵押房地产投资信托（REITs）",
+                "pinyin": "dyfdctzxtreits"
+            },
+            {
+                "encode": "403010",
+                "name": "保险",
+                "pinyin": "bx"
+            },
+            {
+                "encode": "451020",
+                "name": "信息技术服务",
+                "pinyin": "xxjsfw"
+            },
+            {
+                "encode": "451030",
+                "name": "软件",
+                "pinyin": "rj"
+            },
+            {
+                "encode": "452010",
+                "name": "通信设备",
+                "pinyin": "txsb"
+            },
+            {
+                "encode": "452020",
+                "name": "电脑与外围设备",
+                "pinyin": "dnywwsb"
+            },
+            {
+                "encode": "452030",
+                "name": "电子设备、仪器和元件",
+                "pinyin": "dzsbyqhyj"
+            },
+            {
+                "encode": "453010",
+                "name": "半导体产品与设备",
+                "pinyin": "bdtcpysb"
+            },
+            {
+                "encode": "501010",
+                "name": "综合电信业务",
+                "pinyin": "zhdxyw"
+            },
+            {
+                "encode": "501020",
+                "name": "无线电信业务",
+                "pinyin": "wxdxyw"
+            },
+            {
+                "encode": "502010",
+                "name": "媒体",
+                "pinyin": "mt"
+            },
+            {
+                "encode": "502020",
+                "name": "娱乐",
+                "pinyin": "yl"
+            },
+            {
+                "encode": "502030",
+                "name": "互动媒体与服务",
+                "pinyin": "hdmtyfw"
+            },
+            {
+                "encode": "551010",
+                "name": "电力公用事业",
+                "pinyin": "dlgysy"
+            },
+            {
+                "encode": "551020",
+                "name": "燃气公用事业",
+                "pinyin": "rqgysy"
+            },
+            {
+                "encode": "551030",
+                "name": "复合型公用事业",
+                "pinyin": "fhxgysy"
+            },
+            {
+                "encode": "551040",
+                "name": "水公用事业",
+                "pinyin": "sgysy"
+            },
+            {
+                "encode": "551050",
+                "name": "独立电力生产商与能源贸易商",
+                "pinyin": "dldlscsynymys"
+            },
+            {
+                "encode": "601010",
+                "name": "股权房地产投资信托 （REITs）",
+                "pinyin": "gqfdctzxtreits"
+            },
+            {
+                "encode": "601020",
+                "name": "房地产管理和开发",
+                "pinyin": "fdcglhkf"
+            },
+            {
+                "encode": "601025",
+                "name": "工业REIT",
+                "pinyin": "gyreit"
+            },
+            {
+                "encode": "601030",
+                "name": "酒店及度假村REIT",
+                "pinyin": "jdjdjcreit"
+            },
+            {
+                "encode": "601040",
+                "name": "写字楼REIT",
+                "pinyin": "xzlreit"
+            },
+            {
+                "encode": "601050",
+                "name": "医疗保健REIT",
+                "pinyin": "ylbjreit"
+            },
+            {
+                "encode": "601060",
+                "name": "住宅REIT",
+                "pinyin": "zzreit"
+            },
+            {
+                "encode": "601070",
+                "name": "零售REIT",
+                "pinyin": "lsreit"
+            },
+            {
+                "encode": "601080",
+                "name": "专门REIT",
+                "pinyin": "zmreit"
+            },
+            {
+                "encode": "602010",
+                "name": "房地产管理和开发",
+                "pinyin": "fdcglhkf"
+            }
+        ]
+    },
+    "error_code": 0,
+    "error_description": ""
+}
